@@ -1,0 +1,48 @@
+body {
+    background-image: url('login.png');
+}
+
+h1 {
+    color: #FF8E00;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    margin: 20px;
+
+}
+
+nav ul li a:hover {
+    border: 1px red solid;
+    text-align: bold;
+}
+.ui {
+    position: absolute;
+    top: 0px;
+    padding-left: 60%;
+}
+.body{
+    position: absolute;
+    top: 100px;
+}
+div h3 {
+    text-align: bold;
+    color: #fff;
+}
+.gameslink{
+    text-decoration: none;
+    color: #FF0006;
+}
+.gameslink:hover{
+    color: #FFBD00;
+    border: 1px #FFBD00 solid;
+}
+p{
+  color: #fff;
+}

@@ -1,0 +1,22 @@
+label {
+    color: blue;
+}
+input {
+    color: skyblue
+}
+.Bb {
+    color: blue;
+}
+.option {
+    color: green
+}
+
+body {
+    background-image: url('login.png');
+}
+.back {
+    border: red 2px solid;
+    color: #fff;
+    background: red;
+    text-decoration: none;
+}
